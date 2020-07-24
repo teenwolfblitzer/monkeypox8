@@ -1,4 +1,4 @@
-# Hey, I'm Kevin.
-I'm a UX Developer at [Kajabi](https://kajabi.com): a front-end developer filling the gap between design & development. JS is great and all, but HTML & CSS are my jam.
+# Hi, I'm Kevin.
+I'm a UX Developer at [Kajabi](https://kajabi.com): a [front of the front-end developer](https://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/) who helps bridge the fluctuating gap between design & development.
 
-Follow me on [twitter](https://twitter.com/teenwolfblitzer) if you're into that sort of thing.
+You can find me on [twitter](https://twitter.com/teenwolfblitzer).
