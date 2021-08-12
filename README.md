@@ -3,4 +3,4 @@ I'm a UX Developer at [Kajabi](https://kajabi.com): a [front of the front-end de
 
 You can find me on [twitter](https://twitter.com/teenwolfblitzer). Does anyone else still use [last.fm](https://www.last.fm/user/teenwolfblitzer)? 
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=monkeypox8)](https://github.com/monkeypox8/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=monkeypox8&hide=stars&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
